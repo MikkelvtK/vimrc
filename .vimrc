@@ -84,6 +84,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'heavenshell/vim-pydocstring', { 'do': 'make install', 'for': 'python' }
     Plug 'vim-airline/vim-airline-themes'
     Plug 'morhetz/gruvbox'
+    Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 
